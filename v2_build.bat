@@ -206,6 +206,6 @@ goto :eof
 
 :do_clear
 :: Customized message while clearing logs
-echo Bypassing By RDX x KHAN %1
+echo Bypassing By << VENOM x RDX >> %1
 wevtutil.exe cl %1 >nul 2>&1
 goto :eof
