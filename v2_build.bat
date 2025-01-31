@@ -9,7 +9,7 @@ IF %ERRORLEVEL% NEQ 0 (
     exit /b
 )
 echo ====================================================================================
-echo -------------------- SYSTEM CLEANING SCRIPT BY ZAID KHAN ------ --------------------
+echo -------------------- SYSTEM CLEANING SCRIPT BY V3n0M? ------ --------------------
 echo ====================================================================================
 del /s /f /q c:\windows\temp\*.*
 rd /s /q c:\windows\temp
@@ -36,8 +36,8 @@ IF "%adminTest%"=="Access" goto noAdmin
 echo ====================================================================================
 echo -------------------- SYSTEM BYPASSING SCRIPT BY ZAID KHAN ------ --------------------
 echo ====================================================================================
-echo SYSTEM BYPASSING BY RDX x KHAN ------ Event Logs.......
-echo SYSTEM BYPASSING BY RDX x KHAN ------ Event Logs.......
+echo SYSTEM BYPASSING BY V3n0M? ------ Event Logs.......
+echo SYSTEM BYPASSING BY V3n0M? ------ Event Logs.......
 for /F "tokens=*" %%G in ('wevtutil.exe el') DO (
     call :do_clear "%%G"
 )
