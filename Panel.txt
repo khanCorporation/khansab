@@ -20,31 +20,31 @@
        │─ [U] Username : Amjed  ──┐
        │                          │────┐
        └─ [P] Passowrd : 1      ──┘    SID
-	                                │
+	                               │
                                        └───
                                       Hwid
-					    │
-     				           └───
-	   			    	    Board-ID
-					    │
-					    └───
-  					    Windows-Version
-					    │
-					    └───  
+				       │
+     				       └───
+	   			      Board-ID
+				       │
+				       └───
+  				      Windows-Version
+				       │
+				       └─── 
 
 [03] ──┐
        │ 
        │─ [U] Username : Rehan   ──┐
        │                           │────┐
-       └─ [P] Passowrd : Cracker ──┘  SID
-	                                │
+       └─ [P] Passowrd : Cracker ──┘    SID
+	                               │
                                        └───
                                       Hwid
-					    │
-     				           └───
-	   			    	    Board-ID
-					    │
-					    └───
-  					    Windows-Version
-					    │
-					    └───   
+				       │
+     				       └───
+	   			      Board-ID
+				       │
+				       └───
+  				      Windows-Version
+				       │
+				       └───   
