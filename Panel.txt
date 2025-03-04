@@ -3,17 +3,17 @@
        │─ [U] Username : KHAN   ──┐
        │                          │────┐
        └─ [P] Passowrd : Sab123 ──┘   SID
-	                                │
+	                               │
                                        └───
                                       Hwid
-					    │
-     				           └───
-	   			    	    Board-ID
-					    │
-					    └───
-  					    Windows-Version
-					    │
-					    └───  
+				       │
+     				       └───
+	   			      Board-ID
+				       │
+				       └───
+  				      Windows-Version
+				       │
+				       └───  
 
 [02] ──┐
        │ 
