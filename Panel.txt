@@ -20,3 +20,11 @@
        │─ [U] Username : Nabeel
        │
        └─ [P] Password : 12
+[05] ──┐
+       │ 
+       │─ [U] Username : Nabeel
+       │
+       └─ [P] Password : 12
+      Expiry-Date
+       │
+       └─── [E] 2025-03-05
