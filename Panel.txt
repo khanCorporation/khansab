@@ -1,50 +1,17 @@
 [01] ──┐
        │ 
-       │─ [U] Username : KHAN   ──┐
-       │                          │────┐
-       └─ [P] Password : Sab123 ──┘   SID
-	                               │
-                                       └───\n                                       └───[S] S-1-5-21-557978293-1849871497-394286851-1001\n                                      Hwid\n                                       │\n                                       └───[H] 3F323D60-D7DA-11DD-BEFC-60A44C50C930\n                                      Board-ID\n                                       │\n                                       └───[B] 130106723900133\n                                      Windows-Version\n                                       │\n                                       └───[W] Microsoft Windows NT 6.2.9200.0
-                                      Hwid
-				       │
-     				       └───
-	   			      Board-ID
-				       │
-				       └───
-  				      Windows-Version
-				       │
-				       └───  
-
-[02] ──┐
-       │ 
-       │─ [U] Username : Amjed  ──┐
-       │                          │────┐
-       └─ [P] Password : 1      ──┘    SID
-	                               │
-                                       └───
-                                      Hwid
-				       │
-     				       └───
-	   			      Board-ID
-				       │
-				       └───
-  				      Windows-Version
-				       │
-				       └─── 
-
-[03] ──┐
-       │ 
-       │─ [U] Username : Rehan   ──┐
-       │                           │────┐
-       └─ [P] Password : Cracker ──┘    SID
-	                               │
-                                       └───
-                                      Hwid
-				       │
-     				       └───
-	   			      Board-ID
-				       │
-				       └───
-  				      Windows-Version
-				       │
-				       └───
+       │─ [U] Username : KHAN   
+       │                          
+       └─ [P] Passowrd : Sab123 
+      SID
+       │
+       └───
+      Hwid
+       │
+       └───
+      Board-ID
+       │
+       └───
+    Windows-Version
+       │
+       └───
