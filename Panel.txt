@@ -24,3 +24,11 @@
       Expiry-Date
        │
        └─── [E] 2025-03-05
+[06] ──┐
+       │ 
+       │─ [U] Username : red
+       │
+       └─ [P] Password : 123
+      Expiry-Date
+       │
+       └─── [E] 2020-20-20
