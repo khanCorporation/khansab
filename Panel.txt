@@ -4,9 +4,9 @@
        │                          │────┐
        └─ [P] Passowrd : Sab123 ──┘   SID
                                        └───
-									  Hwid
-									   └───
-	   					        	  Board-ID
-									   └───
-  					        	      Windows-Version
-									   └───
+                                      Hwid
+                                       └───
+                                      Board-ID
+                                       └───
+                                      Windows-Version
+                                       └───
