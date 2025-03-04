@@ -15,3 +15,22 @@
        │─ [U] Username : khan3   
        │                          
        └─ [P] Password : sab3
+
+
+[U] Username : Nabeel
+[P] Password : 123
+SID
+ │
+ └─── [S] 
+Hwid
+ │
+ └─── [H] 
+Board-ID
+ │
+ └─── [B] 
+Windows-Version
+ │
+ └─── [W] 
+Expiry-Date
+ │
+ └─── [E] 2025-03-05
