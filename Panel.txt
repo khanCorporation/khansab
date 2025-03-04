@@ -10,21 +10,7 @@
                                        └─── [B] 130106723900133
                                       Windows-Version
                                        └─── [W] Microsoft Windows NT 6.2.9200.0
-
-
-[01] ──┐
-       │ 
-       │─ [U] Username : KHAN   ──┐
-       │                          │────┐
-       └─ [P] Passowrd : Sab123 ──┘   SID
-                                       └───
-                                      Hwid
-                                       └───
-                                      Board-ID
-                                       └───
-                                      Windows-Version
-                                       └───
-[01] ──┐
+[02] ──┐
        │ 
        │─ [U] Username : SAB    ──┐
        │                          │────┐
