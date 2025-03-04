@@ -2,7 +2,7 @@
        │ 
        │─ [U] Username : SAB    ──┐
        │                          │────┐
-       └─ [P] Passowrd : Sab123 ──┘      SID
+       └─ [P] Password : Sab123 ──┘      SID
                                        │
                                        └───
                                       Hwid
@@ -19,7 +19,7 @@
        │ 
        │─ [U] Username : Amje   ──┐
        │                          │────┐
-       └─ [P] Passowrd : Sab    ──┘   SID
+       └─ [P] Password : Sab    ──┘   SID
                                        │
                                        └───
                                       Hwid
@@ -36,7 +36,7 @@
        │ 
        │─ [U] Username : Rehan  ──┐
        │                          │────┐
-       └─ [P] Passowrd : Cracke ──┘    SID
+       └─ [P] Password : Cracke ──┘    SID
                                        │
                                        └───
                                       Hwid
