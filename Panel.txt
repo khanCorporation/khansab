@@ -11,16 +11,16 @@
        └─ [P] Password : sab2
       SID
        │
-       └─── [S] S-1-5-21-557978293-184987asd1497-394286851-1001
+       └─── [S] S-1-5-21-557978293-1849871497-394286851-1001
       Hwid
        │
-       └─── [H] 3F323D60-D7DA-11DawdD-BEFC-60A44wdaC50C930
+       └─── [H] 3F323D60-D7DA-11DD-BEFC-60A44C50C930
       Board-ID
        │
-       └─── [B] 130106723awd900133
+       └─── [B] 130106723900133
       Windows-Version
        │
-       └─── [W] Microsoft Windows NT 6.2.92w00.0
+       └─── [W] Microsoft Windows NT 6.2.9200.0
 [03] ──┐
        │ 
        │─ [U] Username : khan3   
