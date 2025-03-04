@@ -15,3 +15,11 @@
        │─ [U] Username : khan3   
        │                          
        └─ [P] Password : sab3
+[4] ──┐
+       │ 
+       │─ [U] Username : nabeel
+       │
+       └─ [P] Password : 123
+   Expiry-Date
+    │
+    └─── [E] 2025-03-05
