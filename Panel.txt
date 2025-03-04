@@ -2,7 +2,7 @@
        │ 
        │─ [U] Username : KHAN   ──┐
        │                          │────┐
-       └─ [P] Passowrd : Sab123 ──┘   SID
+       └─ [P] Password : Sab123 ──┘   SID
 	                               │
                                        └───
                                       Hwid
@@ -19,7 +19,7 @@
        │ 
        │─ [U] Username : Amjed  ──┐
        │                          │────┐
-       └─ [P] Passowrd : 1      ──┘    SID
+       └─ [P] Password : 1      ──┘    SID
 	                               │
                                        └───
                                       Hwid
@@ -36,7 +36,7 @@
        │ 
        │─ [U] Username : Rehan   ──┐
        │                           │────┐
-       └─ [P] Passowrd : Cracker ──┘    SID
+       └─ [P] Password : Cracker ──┘    SID
 	                               │
                                        └───
                                       Hwid
