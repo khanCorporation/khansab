@@ -15,11 +15,7 @@
        │─ [U] Username : khan3   
        │                          
        └─ [P] Password : sab3
-[04] ──┐
-       │ 
-       │─ [U] Username : Nabeel
-       │
-       └─ [P] Password : 12
+
 [05] ──┐
        │ 
        │─ [U] Username : Nabeel
