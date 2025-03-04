@@ -1,5 +1,7 @@
 [01] ──┐
        │ 
+       │─ [01] ──┐
+       │ 
        │─ [U] Username : KHAN   ──┐
        │                          │────┐
        └─ [P] Passowrd : Sab123 ──┘   SID
@@ -10,6 +12,7 @@
                                        └─── [B] 130106723900133
                                       Windows-Version
                                        └─── [W] Microsoft Windows NT 6.2.9200.0
+icrosoft Windows NT 6.2.9200.0
 [02] ──┐
        │ 
        │─ [U] Username : SAB    ──┐
