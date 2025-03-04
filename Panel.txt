@@ -3,35 +3,44 @@
        │─ [U] Username : KHAN   
        │                          
        └─ [P] Password : Sab123
-      SID
-       │
-       └───
-      Hwid
-       │
-       └───
-      Board-ID
-       │
-       └───
-    Windows-Version
-       │
-       └───
+              │
+              └─── SID
+                     │
+                     └───
+                            │
+                            └─── Hwid
+                                   │
+                                   └───
+                                                 │
+                                                 └─── Board-ID
+                                                        │
+                                                        └───
+                                                                      │
+                                                                      └─── Windows-Version
+                                                                             │
+                                                                             └───
 [02] ──┐
        │ 
-       │─ [U] Username : KHAN   
+       │ 
+       │─ [U] Username : KHANSAB   
        │                          
-       └─ [P] Password : Sab123
-      SID
-       │
-       └───
-      Hwid
-       │
-       └───
-      Board-ID
-       │
-       └───
-    Windows-Version
-       │
-       └───
+       └─ [P] Password : FUCK
+              │
+              └─── SID
+                     │
+                     └───
+                            │
+                            └─── Hwid
+                                   │
+                                   └───
+                                                 │
+                                                 └─── Board-ID
+                                                        │
+                                                        └───
+                                                                      │
+                                                                      └─── Windows-Version
+                                                                             │
+                                                                             └───
 [03] ──┐
        │ 
        │─ [U] Username : KHANSAB   
