@@ -3,57 +3,8 @@
        │─ [U] Username : KHAN   
        │                          
        └─ [P] Password : Sab
-   SID
-    ¦
-    +--- [S] S-1-5-21-55757567978293-1849871497-394286851-1001
-   Hwid
-    ¦
-    +--- [H] 3F323D60-D7D5756A-11DD-BEFC-60A4456756C50C930
-   Board-ID
-    ¦
-    +--- [B] 130105675676723900133
-   Windows-Version
-    ¦
-    +--- [W] Microsoft Windows NT 6.2.569200.0
-
 [02] ──┐
        │ 
        │─ [U] Username : khan2   
        │                          
        └─ [P] Password : sab2
-   SID
-    ¦
-    +--- [S] S-1-5-21-557978293-1849871497-394286851-1001
-   Hwid
-    ¦
-    +--- [H] 3F323D60-D7DA-11DD-BEFC-60A44C50C930
-   Board-ID
-    ¦
-    +--- [B] 130106723900133
-   Windows-Version
-    ¦
-    +--- [W] Microsoft Windows NT 6.2.9200.0
-[03] ──┐
-       │ 
-       │─ [U] Username : khan3   
-       │                          
-       └─ [P] Password : sab3
-
-
-[05] ──┐
-       │ 
-       │─ [U] Username : Nabeel
-       │
-       └─ [P] Password : 12
-      Expiry-Date
-       │
-       └─── [E] 2025-03-05
-
-[06] ──┐
-       │ 
-       │─ [U] Username : red
-       │
-       └─ [P] Password : 123
-      Expiry-Date
-       │
-       └─── [E] 2020-20-20
