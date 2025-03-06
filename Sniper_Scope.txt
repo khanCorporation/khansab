@@ -1,2 +1,0 @@
-Search: 88 99 FF FF FF 00 00
-Replace: 77 99 22 88 FF 00 00
