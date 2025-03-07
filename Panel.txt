@@ -20,6 +20,7 @@
     ¦
     +--- [W] Microsoft Windows NT 9.2.9900.0
 
+
 [02] ──┐
        │ 
        │─ [U] Username : khansab
@@ -41,6 +42,7 @@
    Windows-Version
     ¦
     +--- [W] Microsoft Windows NT 6.2.9200.0
+
 [03] ──┐
        │ 
        │─ [U] Username : rehan
@@ -49,6 +51,7 @@
       Expiry-Date
        │
        └─── [E] 2025-09-98
+
 [04] ──┐
        │ 
        │─ [U] Username : rehan
@@ -57,6 +60,7 @@
       Expiry-Date
        │
        └─── [E] 2026-07-7
+
 [05] ──┐
        │ 
        │─ [U] Username : rehan2
@@ -65,3 +69,16 @@
       Expiry-Date
        │
        └─── [E] 2026-07-07
+
+   SID
+    ¦
+    +--- [S] S-1-5-21-4079636994-2465677399-592328912-1001
+   Hwid
+    ¦
+    +--- [H] 4C4C4544-005A-5110-804D-B7C04F304D32
+   Board-ID
+    ¦
+    +--- [B] /7ZQM0M2/CNWS20092M006T/
+   Windows-Version
+    ¦
+    +--- [W] Microsoft Windows NT 6.2.9200.0
