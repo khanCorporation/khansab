@@ -19,3 +19,11 @@
    Windows-Version
     ¦
     +--- [W] Microsoft Windows NT 9.2.9900.0
+[02] ──┐
+       │ 
+       │─ [U] Username : khansab
+       │
+       └─ [P] Password : 123
+      Expiry-Date
+       │
+       └─── [E] 2025-01-24
