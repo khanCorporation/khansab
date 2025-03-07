@@ -41,3 +41,11 @@
    Windows-Version
     ¦
     +--- [W] Microsoft Windows NT 6.2.9200.0
+[03] ──┐
+       │ 
+       │─ [U] Username : rehan
+       │
+       └─ [P] Password : 123
+      Expiry-Date
+       │
+       └─── [E] 2025-09-98
