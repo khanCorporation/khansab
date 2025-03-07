@@ -3,19 +3,3 @@
        │─ [U] Username : khan
        │
        └─ [P] Password : sab
-      Expiry-Date
-       │
-       └─── [E] 2025-03-3
-
-   SID
-    ¦
-    +--- [S] S-1-54-231-2342342-23545435-2342354567-1001
-   Hwid
-    ¦
-    +--- [H] 36887F324G-D678HE335-2C234-WXR342-24245TYBET35778
-   Board-ID
-    ¦
-    +--- [B] 2426234C2567
-   Windows-Version
-    ¦
-    +--- [W] Microsoft Windows NT 9.2.9900.0
