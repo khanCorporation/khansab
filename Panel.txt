@@ -29,7 +29,7 @@
        └─ [P] Password : khan2
       Expiry-Date
        │
-       └─── [E] 2025-11-24
+       └─── [E] 2020-11-24
 
    SID
     ¦
@@ -40,71 +40,6 @@
    Board-ID
     ¦
     +--- [B] 130106723900133
-   Windows-Version
-    ¦
-    +--- [W] Microsoft Windows NT 6.2.9200.0
-
-
-[03] ──┐
-       │ 
-       │─ [U] Username : rehan
-       │
-       └─ [P] Password : 123
-      Expiry-Date
-       │
-       └─── [E] 2025-09-98
-
-
-[04] ──┐
-       │ 
-       │─ [U] Username : rehan
-       │
-       └─ [P] Password : 1
-      Expiry-Date
-       │
-       └─── [E] 2026-07-7
-
-
-[05] ──┐
-       │ 
-       │─ [U] Username : rehan2
-       │
-       └─ [P] Password : rehan3
-      Expiry-Date
-       │
-       └─── [E] 2026-07-07
-
-   SID
-    ¦
-    +--- [S] S-1-5-21-4079636994-2465677399-592328912-1001
-   Hwid
-    ¦
-    +--- [H] 4C4C4544-005A-5110-804D-B7C04F304D32
-   Board-ID
-    ¦
-    +--- [B] /7ZQM0M2/CNWS20092M006T/
-   Windows-Version
-    ¦
-    +--- [W] Microsoft Windows NT 6.2.9200.0
-
-[06] ──┐
-       │ 
-       │─ [U] Username : d
-       │
-       └─ [P] Password : d
-      Expiry-Date
-       │
-       └─── [E] 2026-07-07
-
-   SID
-    ¦
-    +--- [S] S-1-5-21-3293221678-4043913533-2413940166-1001
-   Hwid
-    ¦
-    +--- [H] 16CFC488-117B-E911-8FAF-00D861725448
-   Board-ID
-    ¦
-    +--- [B] J516457663
    Windows-Version
     ¦
     +--- [W] Microsoft Windows NT 6.2.9200.0
