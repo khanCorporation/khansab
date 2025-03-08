@@ -43,3 +43,11 @@
    Windows-Version
     ¦
     +--- [W] Microsoft Windows NT 6.2.9200.0
+[03] ──┐
+       │ 
+       │─ [U] Username : r
+       │
+       └─ [P] Password : r
+      Expiry-Date
+       │
+       └─── [E] 2029-07-07
