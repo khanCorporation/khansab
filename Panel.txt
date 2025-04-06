@@ -47,3 +47,12 @@
    Banned
     ¦
     +--- [Banned] : false
+
+[04] ──┐
+       │ 
+       │─ [U] Username : test
+       │
+       └─ [P] Password : fake
+      Expiry-Date
+       │
+       └─── [E] 2029-11-24
