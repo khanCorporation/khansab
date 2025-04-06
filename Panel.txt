@@ -78,7 +78,7 @@ Banned
  +--- [Banned] : true
 
 
-[5] ──┐
+[05] ──┐
       │ 
       │─ [U] Username : fuck
       │
