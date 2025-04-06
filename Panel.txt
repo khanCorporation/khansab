@@ -127,7 +127,7 @@ Banned
  +--- [Banned] : false
 
 
-[07] ──┐
+[7] ──┐
       │ 
       │─ [U] Username : nomi
       │
