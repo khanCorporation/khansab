@@ -74,3 +74,8 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : true
+
+[5] ──┐
+       │ 
+       │─ 
+       │
