@@ -19,7 +19,9 @@
    Windows-Version
     ¦
     +--- [W] Microsoft Windows NT 6.2.9200.0
-
+   Banned
+    ¦
+    +--- [Banned] : false
 
 [03] ──┐
        │ 
@@ -42,3 +44,6 @@
    Windows-Version
     ¦
     +--- [W] Microsoft Windows NT 10.0.19045.0
+   Banned
+    ¦
+    +--- [Banned] : false
