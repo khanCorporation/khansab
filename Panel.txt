@@ -121,3 +121,12 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : false
+
+[7] ──┐
+      │ 
+      │─ [U] Username : nomi
+      │
+      └─ [P] Password : randi
+     Expiry-Date
+      │
+      └─── [E] 2025-09-25
