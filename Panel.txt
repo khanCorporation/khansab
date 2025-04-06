@@ -74,3 +74,11 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : true
+
+[4] ──┐
+       │ 
+       │─ [U] Username : fuck
+       │
+       └─ [P] Password : nomi
+       │
+       └─── [E] Expiry-Date : 2031-02-23
