@@ -74,12 +74,3 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : true
-
-[05] ──┐
-      │ 
-      │─ [U] Username : khansab2
-      │
-      └─ [P] Password : khan3
-     Expiry-Date
-      │
-      └─── [E] 2025-09-25
