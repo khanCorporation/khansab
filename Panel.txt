@@ -8,22 +8,6 @@
        │
        └─── [E] 2029-11-24
 
-   SID
-    ¦
-    +--- [S] S-1-5-21-3293221678-4043913533-2413940166-1001
-   Hwid
-    ¦
-    +--- [H] 16CFC488-117B-E911-8FAF-00D861725448
-   Board-ID
-    ¦
-    +--- [B] J516457663
-   Windows-Version
-    ¦
-    +--- [W] Microsoft Windows NT 10.0.19045.0
-   Banned
-    ¦
-    +--- [Banned] : true
-
 
 [04] ──┐
        │ 
@@ -33,22 +17,6 @@
       Expiry-Date
        │
        └─── [E] 2029-11-24
-
-SID
- ¦
- +--- [S] S-1-5-21-557978293-1849871497-394286851-1001
-Hwid
- ¦
- +--- [H] 3F323D60-D7DA-11DD-BEFC-60A44C50C930
-Board-ID
- ¦
- +--- [B] 130106723900133
-Windows-Version
- ¦
- +--- [W] Microsoft Windows NT 6.2.9200.0
-Banned
- ¦
- +--- [Banned] : false
 [05] ──┐
       │ 
       │─ [U] Username : motherfucker
