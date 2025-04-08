@@ -105,3 +105,11 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : false
+[06] ──┐
+      │ 
+      │─ [U] Username : h
+      │
+      └─ [P] Password : s
+     Expiry-Date
+      │
+      └─── [E] 2025-12-18
