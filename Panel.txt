@@ -132,4 +132,4 @@ Windows-Version
  +--- [W] Microsoft Windows NT 6.2.9200.0
 Banned
  ¦
- +--- [Banned] : false
+ +--- [Banned] : true
