@@ -2,6 +2,7 @@
 ║          🔥 Khan Database 🔥             ║
 ╚══════════════════════════════════════════╝
 [Status] : true
+
 [02] ──┐
        │ 
        │─ [U] Username : khansab
@@ -26,6 +27,7 @@
    Banned
     ¦
     +--- [Banned] : false
+
 
 
 
@@ -56,6 +58,7 @@
 
 
 
+
 [04] ──┐
        │ 
        │─ [U] Username : test
@@ -82,6 +85,7 @@ Banned
  +--- [Banned] : false
 
 
+
 [05] ──┐
       │ 
       │─ [U] Username : dexter
@@ -105,6 +109,7 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : false
+
 [06] ──┐
       │ 
       │─ [U] Username : h
@@ -113,3 +118,18 @@ Banned
      Expiry-Date
       │
       └─── [E] 2025-12-18
+SID
+ ¦
+ +--- [S] S-1-5-21-557978293-1849871497-394286851-1001
+Hwid
+ ¦
+ +--- [H] 3F323D60-D7DA-11DD-BEFC-60A44C50C930
+Board-ID
+ ¦
+ +--- [B] 130106723900133
+Windows-Version
+ ¦
+ +--- [W] Microsoft Windows NT 6.2.9200.0
+Banned
+ ¦
+ +--- [Banned] : false
