@@ -49,3 +49,11 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : false
+[05] ──┐
+      │ 
+      │─ [U] Username : motherfucker
+      │
+      └─ [P] Password : nomi777
+     Expiry-Date
+      │
+      └─── [E] 2027-03-18
