@@ -75,3 +75,12 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : false
+
+[05] ──┐
+      │ 
+      │─ [U] Username : dexter
+      │
+      └─ [P] Password : fucker
+     Expiry-Date
+      │
+      └─── [E] 2026-08-01
