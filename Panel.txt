@@ -9,16 +9,6 @@
        └─── [E] 2029-11-24
 
 
-[03] ──┐
-       │ 
-       │─ [U] Username : dhruv
-       │
-       └─ [P] Password : cheat
-      Expiry-Date
-       │
-       └─── [E] 2029-11-24
-
-
 [04] ──┐
        │ 
        │─ [U] Username : test
