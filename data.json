@@ -2,9 +2,6 @@
 ║          🔥 Khan Database 🔥             ║
 ╚══════════════════════════════════════════╝
 [Status] : true
-
-
-
 [02] ──┐
        │ 
        │─ [U] Username : khansab
@@ -14,26 +11,49 @@
        │
        └─── [E] 2029-11-24
 
+   SID
+    ¦
+    +--- [S] S-1-5-21-557978293-1849871497-394286851-1001
+   Hwid
+    ¦
+    +--- [H] 3F323D60-D7DA-11DD-BEFC-60A44C50C930
+   Board-ID
+    ¦
+    +--- [B] 130106723900133
+   Windows-Version
+    ¦
+    +--- [W] Microsoft Windows NT 6.2.9200.0
+   Banned
+    ¦
+    +--- [Banned] : false
 
 
+[03] ──┐
+       │ 
+       │─ [U] Username : dhruv
+       │
+       └─ [P] Password : cheat
+      Expiry-Date
+       │
+       └─── [E] 2029-11-24
+
+   SID
+    ¦
+    +--- [S] S-1-5-21-3293221678-4043913533-2413940166-1001
+   Hwid
+    ¦
+    +--- [H] 16CFC488-117B-E911-8FAF-00D861725448
+   Board-ID
+    ¦
+    +--- [B] J516457663
+   Windows-Version
+    ¦
+    +--- [W] Microsoft Windows NT 10.0.19045.0
+   Banned
+    ¦
+    +--- [Banned] : false
 
 
-
-SID
- ¦
- +--- [S] S-1-5-21-557978293-1849871497-394286851-1001
-Hwid
- ¦
- +--- [H] 3F323D60-D7DA-11DD-BEFC-60A44C50C930
-Board-ID
- ¦
- +--- [B] 130106723900133
-Windows-Version
- ¦
- +--- [W] Microsoft Windows NT 6.2.9200.0
-Banned
- ¦
- +--- [Banned] : false
 [04] ──┐
        │ 
        │─ [U] Username : test
@@ -43,32 +63,6 @@ Banned
        │
        └─── [E] 2029-11-24
 
-
-
-
-
-[05] ──┐
-      │ 
-      │─ [U] Username : dexter
-      │
-      └─ [P] Password : fucker
-     Expiry-Date
-      │
-      └─── [E] 2026-08-01
-
-
-
-[06] ──┐
-      │ 
-      │─ [U] Username : h
-      │
-      └─ [P] Password : s
-     Expiry-Date
-      │
-      └─── [E] 2025-12-18
-Banned
- ¦
- +--- [Banned] : false
 SID
  ¦
  +--- [S] S-1-5-21-557978293-1849871497-394286851-1001
@@ -83,4 +77,4 @@ Windows-Version
  +--- [W] Microsoft Windows NT 6.2.9200.0
 Banned
  ¦
- +--- [Banned] : false
+ +--- [Banned] : true
