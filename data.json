@@ -68,7 +68,7 @@ Banned
       └─── [E] 2025-12-18
 Banned
  ¦
- +--- [Banned] : false
+ +--- [Banned] : true
 SID
  ¦
  +--- [S] S-1-5-21-557978293-1849871497-394286851-1001
@@ -83,4 +83,4 @@ Windows-Version
  +--- [W] Microsoft Windows NT 6.2.9200.0
 Banned
  ¦
- +--- [Banned] : false
+ +--- [Banned] : true
