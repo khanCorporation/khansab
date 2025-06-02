@@ -4,6 +4,7 @@
 [Status] : true
 
 
+
 [02] ──┐
        │ 
        │─ [U] Username : khansab
@@ -16,6 +17,7 @@
 
 
 
+
 [03] ──┐
        │ 
        │─ [U] Username : dhruv
@@ -24,6 +26,7 @@
       Expiry-Date
        │
        └─── [E] 2029-11-24
+
 
 
 
@@ -54,6 +57,7 @@ Banned
  +--- [Banned] : false
 
 
+
 [05] ──┐
       │ 
       │─ [U] Username : dhruv1
@@ -77,6 +81,7 @@ Windows-Version
 Banned
  ¦
  +--- [Banned] : false
+
 [06] ──┐
       │ 
       │─ [U] Username : parnav
@@ -85,6 +90,7 @@ Banned
      Expiry-Date
       │
       └─── [E] 2025-07-02
+
 [07] ──┐
       │ 
       │─ [U] Username : tony
@@ -93,3 +99,18 @@ Banned
      Expiry-Date
       │
       └─── [E] 2025-06-28
+SID
+ ¦
+ +--- [S] S-1-5-21-1199533273-3779680994-3643962601-1001
+Hwid
+ ¦
+ +--- [H] 181A33D6-B808-1B40-820B-CDDC2D018A6A
+Board-ID
+ ¦
+ +--- [B] R416NRCX0069PMMB
+Windows-Version
+ ¦
+ +--- [W] Microsoft Windows NT 6.2.9200.0
+Banned
+ ¦
+ +--- [Banned] : false
