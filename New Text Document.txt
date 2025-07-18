@@ -10,3 +10,7 @@ NAME: fuckerV
 CPU ID: BFEBFBFF000306C3
 NAME: suck
 --------------------------
+--------------------------
+CPU ID: BFEBFBFF000306A9
+NAME: pics
+--------------------------
