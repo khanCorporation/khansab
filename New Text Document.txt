@@ -18,3 +18,7 @@ NAME: madarchod
 CPU ID: BFEBFBFF00090672
 NAME: madarchod2
 --------------------------
+--------------------------
+CPU ID: BFEBFBFF000306A9
+NAME: FuckAE
+--------------------------
