@@ -14,3 +14,7 @@ NAME: blz
 CPU ID: BFEBFBFF000306C3
 NAME: madarchod
 --------------------------
+--------------------------
+CPU ID: BFEBFBFF00090672
+NAME: madarchod2
+--------------------------
