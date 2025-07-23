@@ -10,3 +10,7 @@ NAME: oct}
 CPU ID: BFEBFBFF000406E3
 NAME: blz
 --------------------------
+--------------------------
+CPU ID: BFEBFBFF000306C3
+NAME: madarchod
+--------------------------
