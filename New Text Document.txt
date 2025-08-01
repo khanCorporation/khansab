@@ -34,3 +34,7 @@ NAME: fucvker
 CPU ID: BFEBFBFF000906A4
 NAME: ram
 --------------------------
+--------------------------
+CPU ID: BFEBFBFF000306A9
+NAME: fuckerAR
+--------------------------
